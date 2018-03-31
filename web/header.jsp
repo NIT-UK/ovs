@@ -16,7 +16,7 @@
     <body>
         <div class="back">
             <div>
-                <label style=" font-size: 35px;color: #ffffff; margin-left:50px; ">Welcome To Online Voating System </label>
+                <label style=" font-size: 35px;color: #ffffff; margin-left:50px; ">Welcome To Online Voting System </label>
             </div>
             <br>
             <div style="margin-left: 650px">

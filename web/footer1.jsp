@@ -28,7 +28,7 @@
     </head>
     <body>
         <div class="foot">
-            <h1 style="color: white; text-align: center">Online Voating System</h1>
+            <h1 style="color: white; text-align: center">Online Voting System</h1>
         </div>
     </body>
 </html>
